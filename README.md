@@ -2,151 +2,261 @@
 
 <div align='center'>
 
-![Developer Banner](https://img.shields.io/badge/OFPPT%20Digital%20Development-Certified-brightgreen?style=for-the-badge&logo=badge)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=code)
-![Status](https://img.shields.io/badge/Status-Open%20For%20Work-success?style=for-the-badge)
-
-### 🎓 OFPPT Digital Development Graduate
-
-```
-████████████████████████████████████████ 100%
-```
-
-### Full Stack Web Developer | Digital Solutions Architect
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile;OFPPT+Digital+Development;Building+Amazing+Web+Solutions" alt="Typing SVG" />
+<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=OFPPT%20Digital%20Developer&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=62' width='100%' />
 
 </div>
 
 ---
 
-## 🚀 من أنا؟
-
-```
-خريج برنامج التطوير الرقمي OFPPT
-متخصص في تطوير التطبيقات الويب وحلول رقمية مبتكرة
-أركز على كتابة كود نظيف وقابل للصيانة
-```
+## 🎬 Animated Intro
 
 <div align='center'>
 
-![Animated GIF](https://media.giphy.com/media/L1R1tvI9svkIWoLvyl/giphy.gif)
+<img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=100&lines=🎓+OFPPT+Digital+Development;💻+Full+Stack+Web+Developer;🚀+Building+Amazing+Solutions;📱+Mobile+%26+Web+Enthusiast' alt='Typing Animation' />
 
 </div>
 
 ---
 
-## 💼 المهارات الرئيسية
+## 👨‍💻 نبذة عني
+
+<table>
+  <tr>
+    <td width='50%'>
+    
+```javascript
+const developer = {
+    name: "OFPPT Graduate",
+    specialization: "Full Stack Development",
+    focus: "Web & Mobile",
+    passion: "Building Innovative Solutions",
+    status: "Open For Work",
+    location: "Morocco 🇲🇦"
+};
+```
+
+    </td>
+    <td width='50%' align='center'>
+    
+<img src='https://media.giphy.com/media/L1R1tvI9svkIWoLvyl/giphy.gif' width='300' alt='Developer GIF' />
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎨 المهارات التقنية
+
+### 💡 Frontend Development
+
+<table align='center'>
+  <tr>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='50' height='50' alt='HTML5' />
+      <br/>HTML5
+    </td>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width='50' height='50' alt='CSS3' />
+      <br/>CSS3
+    </td>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='50' height='50' alt='JavaScript' />
+      <br/>JavaScript
+    </td>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='50' height='50' alt='React' />
+      <br/>React
+    </td>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' width='50' height='50' alt='Vue' />
+      <br/>Vue.js
+    </td>
+  </tr>
+</table>
+
+### 🔧 Backend Development
+
+<table align='center'>
+  <tr>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' width='50' height='50' alt='PHP' />
+      <br/>PHP
+    </td>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' width='50' height='50' alt='Laravel' />
+      <br/>Laravel
+    </td>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='50' height='50' alt='Python' />
+      <br/>Python
+    </td>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='50' height='50' alt='Node.js' />
+      <br/>Node.js
+    </td>
+    <td align='center' width='20%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width='50' height='50' alt='Express' />
+      <br/>Express
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases
+
+<table align='center'>
+  <tr>
+    <td align='center' width='33%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width='50' height='50' alt='MySQL' />
+      <br/>MySQL
+    </td>
+    <td align='center' width='33%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width='50' height='50' alt='MongoDB' />
+      <br/>MongoDB
+    </td>
+    <td align='center' width='33%'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' width='50' height='50' alt='Firebase' />
+      <br/>Firebase
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tools & Platforms
 
 <table align='center'>
   <tr>
     <td align='center' width='25%'>
-      <h3>🎨 Frontend</h3>
-      <img src='https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white' alt='HTML5'>
-      <img src='https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white' alt='CSS3'>
-      <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black' alt='JavaScript'>
-      <img src='https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black' alt='React'>
-      <img src='https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white' alt='Vue'>
-      <img src='https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white' alt='Bootstrap'>
-      <img src='https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white' alt='Tailwind'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='50' height='50' alt='Git' />
+      <br/>Git
     </td>
     <td align='center' width='25%'>
-      <h3>🔧 Backend</h3>
-      <img src='https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white' alt='PHP'>
-      <img src='https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white' alt='Laravel'>
-      <img src='https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white' alt='Python'>
-      <img src='https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white' alt='Django'>
-      <img src='https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white' alt='Node.js'>
-      <img src='https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white' alt='Express'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width='50' height='50' alt='Docker' />
+      <br/>Docker
     </td>
     <td align='center' width='25%'>
-      <h3>🗄️ Database</h3>
-      <img src='https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white' alt='MySQL'>
-      <img src='https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white' alt='PostgreSQL'>
-      <img src='https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white' alt='MongoDB'>
-      <img src='https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black' alt='Firebase'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width='50' height='50' alt='VS Code' />
+      <br/>VS Code
     </td>
     <td align='center' width='25%'>
-      <h3>🛠️ Tools</h3>
-      <img src='https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white' alt='Git'>
-      <img src='https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white' alt='Docker'>
-      <img src='https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white' alt='VS Code'>
-      <img src='https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black' alt='Linux'>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width='50' height='50' alt='Linux' />
+      <br/>Linux
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌟 الإحصائيات
+## 📊 إحصائياتي على GitHub
 
 <div align='center'>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahibmaxim-beep&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahibmaxim-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahibmaxim-beep&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahibmaxim-beep&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 📈 النشاط الأخير
+## 🎯 أفضل مشاريعي
 
 <div align='center'>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wahibmaxim-beep&theme=radical)
+### 🛍️ E-Commerce Platform
+**Laravel + Vue.js + MySQL**
+- نظام سلة تسوق متقدم
+- بوابات دفع آمنة
+- لوحة تحكم إدارية
+
+### 📋 Task Management App
+**MERN Stack**
+- إدارة مهام ذكية
+- تعاون فريقي
+- إشعارات فورية
+
+### 🌤️ Weather App
+**Django + React**
+- توقعات طقس دقيقة
+- واجهة استخدام جميلة
+- محفوظة محلياً
 
 </div>
 
 ---
 
-## 🎯 مشاريعي
+## 🏆 الإنجازات والشهادات
 
-| المشروع | الوصف | التقنيات |
-|--------|-------|---------|
-| 🛍️ **E-Commerce Platform** | منصة تجارة إلكترونية كاملة | Laravel • Vue.js • MySQL |
-| 📋 **Task Management App** | تطبيق إدارة المهام | MERN Stack • MongoDB |
-| 🌤️ **Weather App** | تطبيق الطقس المتقدم | Django • React • OpenWeather API |
+<div align='center'>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wahibmaxim-beep&theme=tokyonight&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 🎓 الشهادات والتدريب
+## 📈 أنشطتي على GitHub
+
+<div align='center'>
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=wahibmaxim-beep&bg_color=1a1b27&color=6e40aa&line=6e40aa&point=ff006e&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 💬 تواصل معي
+
+<div align='center'>
+
+[![Email](https://img.shields.io/badge/Email-wahibmaxim@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahibmaxim@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wahibmaxim-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahibmaxim)
+[![GitHub](https://img.shields.io/badge/GitHub-wahibmaxim--beep-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahibmaxim-beep)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Send%20Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2126XXXXXXXX)
+
+</div>
+
+---
+
+## 🎓 معلومات إضافية
 
 <div align='center'>
 
 ```
-✅ OFPPT Digital Development Certification
-   ├─ Full Stack Web Development
-   ├─ الأمان الإلكتروني والمصادقة
-   ├─ إدارة قواعد البيانات
-   └─ تطوير التطبيقات العملية
+┌─────────────────────────────────────┐
+│  OFPPT Digital Development Graduate │
+│                                     │
+│  ✅ Full Stack Web Development      │
+│  ✅ Database Management             │
+│  ✅ Cybersecurity Basics            │
+│  ✅ Professional Project Design     │
+└─────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 💡 ماذا أقدم؟
+## 🌟 دعمك مهم جداً!
 
 <div align='center'>
 
 <table>
   <tr>
     <td align='center'>
-      <h3>✨ الجودة</h3>
-      كود نظيف وقابل<br/>للصيانة والتطوير
+      <h3>⭐ Star</h3>
+      إذا أعجبك عملي
     </td>
     <td align='center'>
-      <h3>🚀 الأداء</h3>
-      تطبيقات سريعة<br/>وفعالة جداً
+      <h3>👁️ Follow</h3>
+      لآخر الأخبار
     </td>
     <td align='center'>
-      <h3>🔒 الأمان</h3>
-      حماية عالية<br/>من التهديدات
+      <h3>🍴 Fork</h3>
+      للمشاريع المفتوحة
     </td>
     <td align='center'>
-      <h3>🎨 التصميم</h3>
-      واجهات احترافية<br/>وجميلة جداً
+      <h3>💬 Contact</h3>
+      للتعاون معي
     </td>
   </tr>
 </table>
@@ -155,87 +265,16 @@
 
 ---
 
-## 🎯 معلومات الاتصال
-
 <div align='center'>
 
-![Contact](https://img.shields.io/badge/Email-wahibmaxim%40gmail.com-red?style=flat-square&logo=gmail)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-wahibmaxim-blue?style=flat-square&logo=linkedin)
-![GitHub](https://img.shields.io/badge/GitHub-wahibmaxim--beep-black?style=flat-square&logo=github)
-![Location](https://img.shields.io/badge/Location-Morocco-green?style=flat-square&logo=googlemaps)
+<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You!&fontSize=50&animation=fadeOut' width='100%' />
 
-</div>
+**Made with ❤️ by OFPPT Developer**
 
----
+*يتابع تطوير المهارات والبحث عن فرص عمل في تخصص التطوير الرقمي*
 
-## 🚀 البحث الحالي
+👀 Visitors:
 
-<div align='center'>
-
-<table>
-  <tr>
-    <td>
-      <h3>💼 فرص عمل</h3>
-      <p>مستعد للعمل بدوام كامل أو عقد عمل محدد</p>
-    </td>
-    <td>
-      <h3>🤝 التعاون</h3>
-      <p>مهتم بالمشاريع المفتوحة والمشاركة</p>
-    </td>
-    <td>
-      <h3>📚 التعلم</h3>
-      <p>متابع للتقنيات الجديدة والمبتكرة</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Trophies
-
-<div align='center'>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wahibmaxim-beep&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎨 Visitors Count
-
-<div align='center'>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wahibmaxim-beep.wahibmaxim-beep)
-
-</div>
-
----
-
-<div align='center'>
-
-### ⭐ إذا أعجبك حسابي فقم بـ Star وتابعني!
-
-```
-   ___  ___                       ___ 
-  / _ \/ _ \_____ _   _ ___     / _  |  __/ (_) |_   _| | | / _ \  / (_) |
- |__  >___/ | |_|  \__/ /_/ \_\___/
-    \/     \/                    
-```
-
-**🌐 تابع رحلتي في التطوير الرقمي**
-
-<img src='https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif' width='50' height='50'>
-
-</div>
-
----
-
-<div align='center'>
-
-**صُنِعَ بـ ❤️ من قبل OFPPT Developer**
-
-*آخر تحديث: 2025-12-01*
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wahibmaxim-beep.wahibmaxim-beep&left_text=Visitors&left_color=black&right_color=blue)
 
 </div>
