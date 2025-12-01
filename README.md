@@ -1,8 +1,8 @@
-# 👨‍💻 Wahib - Full Stack Web Developer
+# 👨‍💻 WAHIB EL KHADIRI - Full Stack Web Developer
 
 <div align='center'>
 
-<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=80&animation=fadeIn&fontAlignY=38&desc=DEVELOPPEMENT%20WEB%20FULL%20STACK&descAlignY=51&descAlign=62' width='100%' />
+<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=WAHIB%20EL%20KHADIRI&fontSize=80&animation=fadeIn&fontAlignY=38&desc=DEVELOPPEMENT%20WEB%20FULL%20STACK&descAlignY=51&descAlign=62' width='100%' />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align='center'>
 
-<img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=100&lines=DEVELOPPEMENT%20WEB%20FULL%20STACK;Frontend%20%2B%20Backend%20%2B%20Database;Building%20Complete%20Web%20Solutions;OFPPT%20Graduate%202025' alt='Typing SVG' />
+<img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=100&lines=DEVELOPPEMENT%20WEB%20FULL%20STACK;WAHIB%20EL%20KHADIRI;Frontend%20%2B%20Backend%20%2B%20Database;Building%20Complete%20Web%20Solutions' alt='Typing SVG' />
 
 </div>
 
@@ -21,8 +21,9 @@
 ## 💡 Profile
 
 ```javascript
-const wahib = {
-    name: "Wahib - Full Stack Web Developer",
+const wahibElKhadiri = {
+    name: "WAHIB EL KHADIRI",
+    title: "Full Stack Web Developer",
     specialization: "DEVELOPPEMENT WEB FULL STACK",
     location: "Morocco 🇲🇦",
     experience: {
@@ -32,7 +33,7 @@ const wahib = {
         fullStack: true
     },
     certification: "OFPPT Digital Development",
-    status: "Open For Work"
+    status: "Open For Work ✅"
 };
 ```
 
@@ -98,36 +99,35 @@ const wahib = {
 <div align='center'>
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                   FULL STACK ARCHITECTURE              │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  ┌──────────────┐         ┌──────────────┐            │
-│  │  FRONTEND    │         │   BACKEND    │            │
-│  ├──────────────┤         ├──────────────┤            │
-│  │ React        │────────▶│ Node.js      │            │
-│  │ Vue.js       │         │ Laravel      │            │
-│  │ Next.js      │◀────────│ Django       │            │
-│  │              │  JSON   │              │            │
-│  │ JavaScript   │ REST    │ Python       │            │
-│  │ TypeScript   │ API     │ PHP          │            │
-│  │              │         │              │            │
-│  └──────────────┘         └──────────────┘            │
-│         ▲                         ▲                    │
-│         │                         │                    │
-│         │                         │                    │
-│         └─────────────┬───────────┘                    │
-│                       │                                │
-│                  ┌────▼────────┐                       │
-│                  │  DATABASES  │                       │
-│                  ├─────────────┤                       │
-│                  │ MySQL       │                       │
-│                  │ PostgreSQL  │                       │
-│                  │ MongoDB     │                       │
-│                  │ Firebase    │                       │
-│                  └─────────────┘                       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│         WAHIB EL KHADIRI - FULL STACK ARCHITECTURE      │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  ┌──────────────┐         ┌──────────────┐             │
+│  │  FRONTEND    │         │   BACKEND    │             │
+│  ├──────────────┤         ├──────────────┤             │
+│  │ React        │────────▶│ Node.js      │             │
+│  │ Vue.js       │         │ Laravel      │             │
+│  │ Next.js      │◀────────│ Django       │             │
+│  │              │  JSON   │              │             │
+│  │ JavaScript   │ REST    │ Python       │             │
+│  │ TypeScript   │ API     │ PHP          │             │
+│  │              │         │              │             │
+│  └──────────────┘         └──────────────┘             │
+│         ▲                         ▲                     │
+│         │                         │                     │
+│         └─────────────┬───────────┘                     │
+│                       │                                 │
+│                  ┌────▼────────┐                        │
+│                  │  DATABASES  │                        │
+│                  ├─────────────┤                        │
+│                  │ MySQL       │                        │
+│                  │ PostgreSQL  │                        │
+│                  │ MongoDB     │                        │
+│                  │ Firebase    │                        │
+│                  └─────────────┘                        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -216,7 +216,6 @@ const wahib = {
 [![Email](https://img.shields.io/badge/Email-wahibmaxim@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahibmaxim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahibmaxim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahibmaxim)
 [![GitHub](https://img.shields.io/badge/GitHub-wahibmaxim--beep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahibmaxim-beep)
-[![Twitter](https://img.shields.io/badge/Twitter-@wahibmaxim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wahibmaxim)
 
 </div>
 
@@ -241,7 +240,7 @@ const wahib = {
 
 <div align='center'>
 
-<img src='https://capsule-render.vercel.app/api?type=waving&color=ff006e&height=200&section=footer&text=Full%20Stack%20Web%20Developer&fontSize=50&animation=fadeOut&fontAlignY=70' width='100%' />
+<img src='https://capsule-render.vercel.app/api?type=waving&color=ff006e&height=200&section=footer&text=WAHIB%20EL%20KHADIRI&fontSize=50&animation=fadeOut&fontAlignY=70' width='100%' />
 
 **Built with ❤️ | DEVELOPPEMENT WEB FULL STACK**
 
