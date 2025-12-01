@@ -1,145 +1,144 @@
-# 👨‍💻 wahibmaxim-beep - OFPPT Digital Developer
+# 👨‍💻 Wahib Maxim - Full Stack Developer
 
 <div align='center'>
 
-<img src='https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=300&section=header&text=Welcome%20To%20My%20Profile&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20OFPPT%20Graduate&descAlignY=55&descAlign=62' width='100%' />
+![Profile Views](https://komarev.com/ghpvc/?username=wahibmaxim-beep&style=for-the-badge&color=ff006e)
+![GitHub followers](https://img.shields.io/github/followers/wahibmaxim-beep?style=for-the-badge&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/wahibmaxim-beep?style=for-the-badge&color=yellow)
 
 </div>
 
 ---
 
-## 🎯 Who I Am
+## 🎯 نظرة عامة
 
-<div align='center'>
-
-<img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF006E&center=true&vCenter=true&width=800&height=100&lines=OFPPT+Digital+Development+Graduate;Full+Stack+Web+Developer;Problem+Solver+%26+Innovator;Open+For+Opportunities' alt='Typing SVG' />
-
-</div>
-
----
-
-## 💼 Professional Summary
-
-```
-🎓 OFPPT Digital Development Graduate
-💻 Full Stack Web Developer
-🌐 Web & Mobile Development Specialist
-🚀 Passionate about Building Solutions
-📍 Based in Morocco 🇲🇦
+```javascript
+const wahibMaxim = {
+    pronouns: "He/Him",
+    title: "OFPPT Digital Development Graduate",
+    specialization: "Full Stack Web Development",
+    expertise: ["Frontend", "Backend", "Databases", "DevOps"],
+    languages: ["Arabic", "French", "English"],
+    currentlyLearning: "Advanced Architecture Patterns",
+    openToWork: true,
+    portfolio: "https://wahibmaxim.dev",
+    contactEmail: "wahibmaxim@gmail.com"
+};
 ```
 
+---
+
+## 🛠️ تكنولوجيات متقدمة
+
 <div align='center'>
 
-<img src='https://media.giphy.com/media/L1R1tvI9svkIWoLvyl/giphy.gif' width='400' alt='Developer Working' />
+### 🎨 Frontend Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white)
+
+### 🔧 Backend Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+### 🧪 Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Technical Skills
+## 📂 مشاريعي الاحترافية
 
 <div align='center'>
 
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Technologies
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools & Services
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| # | المشروع | الوصف | التقنيات | الحالة |
+|---|--------|-------|---------|-------|
+| 1 | 🛍️ **E-Commerce** | منصة تسوق كاملة | Laravel • Vue.js • MySQL | ✅ |
+| 2 | 📋 **Task Manager** | إدارة المهام | MERN • MongoDB | ✅ |
+| 3 | 🌤️ **Weather App** | تطبيق الطقس | Django • React • API | ✅ |
+| 4 | 📝 **Blog Platform** | منصة مدونة | Next.js • Firebase | ✅ |
+| 5 | 💬 **Chat App** | دردشة فورية | Socket.io • React | ✅ |
+| 6 | 📊 **Analytics** | لوحة تحليلات | D3.js • Python | ✅ |
+| 7 | 🎨 **Portfolio** | موقع محفظة | React • Framer Motion | ✅ |
+| 8 | 🔌 **REST API** | خدمة API | Django REST • JWT | ✅ |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 إحصائياتي
 
 <div align='center'>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahibmaxim-beep&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=ff006e)
 
-</div>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wahibmaxim-beep&theme=radical&hide_border=true&background=0d1117)
 
-<div align='center'>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahibmaxim-beep&theme=radical&hide_border=true&background=0d1117)
-
-</div>
-
-<div align='center'>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahibmaxim-beep&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahibmaxim-beep&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 الإنجازات
 
 <div align='center'>
 
-| 🛍️ | 📋 | 🌤️ |
-|:---:|:---:|:---:|
-| **E-Commerce Platform** | **Task Management App** | **Weather App** |
-| Laravel • Vue.js | MERN Stack | Django • React |
-| Full e-shop solution | Collaborative tasks | Real-time weather |
+[![Trophy](https://github-profile-trophy.vercel.app/?username=wahibmaxim-beep&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🎓 Certifications & Training
+## 💡 المهارات الرئيسية
 
-<div align='center'>
+### 🎯 ما أتقنه:
+- ✅ تطوير تطبيقات ويب كاملة من الصفر
+- ✅ تصميم وتطوير REST APIs وGraphQL
+- ✅ قواعد بيانات (SQL و NoSQL)
+- ✅ التطبيقات الفورية (Real-time Applications)
+- ✅ الاختبارات الآلية والـ TDD
+- ✅ نشر التطبيقات (Deployment)
+- ✅ العمل مع فريق (Git & GitHub)
+- ✅ أفضل الممارسات والـ Clean Code
 
-```
-✅ OFPPT Digital Development Certification
-   ├─ Full Stack Web Development
-   ├─ Cybersecurity & Authentication
-   ├─ Database Management
-   └─ Professional Project Development
-```
-
-</div>
-
----
-
-## 🌟 What Makes Me Stand Out
-
-<div align='center'>
-
-| Quality | Performance | Security | Design |
-|---------|-------------|----------|--------|
-| Clean Code | Fast & Efficient | Protected Data | Beautiful UI |
-| Maintainable | Optimized | Encrypted | Responsive |
-| Professional | Scalable | Secure APIs | Modern |
-
-</div>
+### 🚀 ما أفضله:
+- 🎨 تجربة المستخدم الرائعة (UX/UI)
+- ⚡ الأداء العالي والتحسينات
+- 🔒 الأمان والحماية
+- 📱 التطبيقات المتجاوبة
+- 🌙 الحلول المبتكرة
+- 👥 التعاون والفريق
 
 ---
 
-## 📈 Activity Graph
+## 📈 النشاط الحالي
 
 <div align='center'>
 
@@ -149,50 +148,135 @@
 
 ---
 
-## 🏅 GitHub Achievements
+## 🎓 التعليم والشهادات
+
+```
+┌─────────────────────────────────────────┐
+│  OFPPT Digital Development               │
+│  Maroc - 2023-2025                      │
+│                                         │
+│  Modules:                               │
+│  ✅ Web Development Fundamentals        │
+│  ✅ Frontend Development                │
+│  ✅ Backend Development                 │
+│  ✅ Database Design & Management        │
+│  ✅ Security & Authentication           │
+│  ✅ Professional Project Development    │
+│  ✅ DevOps & Deployment                 │
+│  ✅ Team Work & Communication           │
+└─────────────────────────────────────────┘
+```
+
+---
+
+## 🌍 لغاتي البرمجية
 
 <div align='center'>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wahibmaxim-beep&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+| اللغة | المستوى | الخبرة |
+|-------|--------|-------|
+| **JavaScript/TypeScript** | ⭐⭐⭐⭐⭐ | Expert |
+| **PHP** | ⭐⭐⭐⭐ | Advanced |
+| **Python** | ⭐⭐⭐⭐ | Advanced |
+| **SQL** | ⭐⭐⭐⭐⭐ | Expert |
+| **HTML/CSS** | ⭐⭐⭐⭐⭐ | Expert |
+| **Java** | ⭐⭐⭐ | Intermediate |
 
 </div>
 
 ---
 
-## 💡 Current Focus
+## 🎯 ما أبحث عنه
 
 <div align='center'>
 
-🔍 **Seeking:** Full-time opportunities in Web Development
-🚀 **Learning:** Advanced architectures and cloud technologies
-🤝 **Open to:** Collaboration on innovative projects
-📚 **Passion:** Clean code and best practices
+<table>
+  <tr>
+    <td align='center' width='25%'>
+      <h3>💼 فرص عمل</h3>
+      <p>دوام كامل أو مشاريع محددة</p>
+    </td>
+    <td align='center' width='25%'>
+      <h3>🤝 تعاون</h3>
+      <p>مشاريع مفتوحة ومثيرة</p>
+    </td>
+    <td align='center' width='25%'>
+      <h3>📚 تعلم</h3>
+      <p>تقنيات وأنماط جديدة</p>
+    </td>
+    <td align='center' width='25%'>
+      <h3>🌟 مساهمة</h3>
+      <p>في المشاريع المهمة</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📞 Get In Touch
+## 📞 تواصل معي
 
 <div align='center'>
 
 [![Email](https://img.shields.io/badge/Email-wahibmaxim@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahibmaxim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahibmaxim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahibmaxim)
-[![GitHub](https://img.shields.io/badge/GitHub-wahibmaxim--beep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahibmaxim-beep)
 [![Twitter](https://img.shields.io/badge/Twitter-@wahibmaxim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wahibmaxim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-wahibmaxim.dev-FF006E?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://wahibmaxim.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-wahibmaxim--beep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahibmaxim-beep)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wahibmaxim.dev-FF006E?style=for-the-badge&logo=chrome&logoColor=white)](https://wahibmaxim.dev)
 
 </div>
 
 ---
 
-## ⭐ Support Me
+## 💻 بيئة التطوير
 
 <div align='center'>
 
-If you like my work, please consider giving me a ⭐
+| العنصر | الأداة |
+|--------|-------|
+| **Editor** | VS Code + Extensions |
+| **Terminal** | PowerShell / Bash |
+| **Version Control** | Git + GitHub |
+| **Design** | Figma / Adobe XD |
+| **Database** | MySQL Workbench / MongoDB Compass |
+| **API Testing** | Postman / Thunder Client |
+| **Deployment** | Docker / GitHub Actions |
 
-<img src='https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif' width='50' height='50' alt='Stars' />
+</div>
+
+---
+
+## 🎨 الإحصائيات المتقدمة
+
+<div align='center'>
+
+![Wakatime Stats](https://wakatime.com/badge/user/wahibmaxim-beep.svg?style=for-the-badge)
+
+</div>
+
+---
+
+## 🌟 الأولويات والقيم
+
+```
+✨ Quality      → الجودة دائماً قبل السرعة
+🚀 Performance  → التطبيقات السريعة والفعالة
+🔒 Security     → الأمان لا يُفاوض عليه
+📚 Learning     → التعلم المستمر والتحسين
+👥 Collaboration→ العمل الجماعي والاحترام
+```
+
+---
+
+## 📢 آخر المستجدات
+
+<div align='center'>
+
+🔥 عمل جديد على مشاريع مثيرة
+📈 تحسين المهارات في DevOps
+🎓 استكشاف العمارة الموزعة
+🚀 إطلاق موقع محفظة احترافي
 
 </div>
 
@@ -200,14 +284,12 @@ If you like my work, please consider giving me a ⭐
 
 <div align='center'>
 
-<img src='https://capsule-render.vercel.app/api?type=waving&color=ff006e&height=200&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=50&animation=fadeOut&fontAlignY=70' width='100%' />
+<img src='https://capsule-render.vercel.app/api?type=waving&color=ff006e&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&animation=fadeOut&fontAlignY=70' width='100%' />
 
-**Crafted with ❤️ by OFPPT Developer**
+**Made with ❤️ by OFPPT Developer**
 
-*Professional • Passionate • Problem-Solver*
+*"Code is the poetry of logic, and I write beautiful verses every day."*
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wahibmaxim-beep.wahibmaxim-beep&left_text=Profile%20Visitors&left_color=%23000000&right_color=%23ff006e)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wahibmaxim-beep.wahibmaxim-beep&left_text=Profile%20Visitors&left_color=black&right_color=ff006e)
 
 </div>
